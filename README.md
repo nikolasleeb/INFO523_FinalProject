@@ -73,5 +73,3 @@ To answer the second question, I again began by cleaning our dataset. To check i
 ```
 
 ---
-
-### Ideas for Improvement
