@@ -35,11 +35,11 @@ To answer the second question, I again began by cleaning our dataset. To check i
 |---FEVRC_Analysis
 |   |---Images Folder
 |   |---FEVRC_Dataset.csv
-|   |---FEVRC_Notebook.ipynb
+|   |---FEVRC_Notebook.ipynb (first question notebook)
 |
 |---FP_Analysis
 |   |---Images Folder
-|   |---FP_Notebook.ipynb
+|   |---FP_Notebook.ipynb (second question notebook)
 |
 |---FuelConsumption
 |   |---RAW Folder (raw imported data)
