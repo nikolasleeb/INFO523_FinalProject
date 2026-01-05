@@ -20,14 +20,37 @@ Step 2. Project Development and Completion
 ### Project Breakdown
 
 ```text
-|
-|
-|
-|
-|
-|
-|
-|
+|---FEVRC_Analysis
+|   |---Images Folder
+|   |---FEVRC_Dataset.csv
+|   |---FEVRC_Notebook(17-19).ipynb
+|---FP_Analysis
+|   |---Images Folder
+|   |---FP_Notebook.ipynb
+|---FuelConsumption
+|   |---RAW Folder (raw imported data)
+|   |---cleanedconsumption.csv
+|   |---ConsumptionData.ipynb
+|   |---ConsumptionData.xlsx
+|---FuelEconomy
+|   |---RAW Folder (raw imported data)
+|   |---cleanedfueleconomy.csv
+|   |---FuelEconomy.ipynb
+|   |---FuelEconomy.xlsx
+|---FuelPrices
+|   |---RAW Folder (raw imported data)
+|   |---cleanedprices.csv
+|   |---FuelPrices.ipynb
+|   |---MonthlyRetailPrices.xlsx
+|---VehicleRegistrations
+|   |---RAW Folder (raw imported data)
+|   |---cleanedregistrations.csv
+|   |---VehicleRegistration.ipynb
+|   |---VehicleRegistrations.xlsx
+|---ProjectDocuments
+|   |---INFO523_Fall2025_final_project_guidelines.pdf
+|   |---ProjectProposal.docx
+|---FinalReport.docx
 |
 |
 |
