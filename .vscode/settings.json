@@ -1,0 +1,15 @@
+{
+  "spellright.language": ["en"],
+  "spellright.documentTypes": ["markdown"],
+  "spellright.ignore": [
+    "EDA",
+    "XGBoost",
+    "autoregressive",
+    "multivariate",
+    "imputation",
+    "Time-Series",
+    "MS",
+    "DS",
+    "INFO"
+  ]
+}
