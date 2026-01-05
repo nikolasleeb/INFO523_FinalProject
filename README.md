@@ -7,8 +7,10 @@
 ### Project Description
 
  The goal of this project was to explore two data driven questions using the techniques we learned across the semester. The two questions I wanted to ask were:
+
     1. Using historical vehicle registrations, fuel efficiency, and gasoline consumption, can we accurately predict future gasoline consumption?
        * This question is based upon the INFO 511 project that I completed earlier in the semester and the ideas for improvements that I had.
+
     2. Do Gasoline and Diesel prices within the U.S. move in similar ways and based upon the movement of one, can we predict the other?
 
 I began exploring the first question by cleaning the datasets and merging them together. I then used a correlation matrix to see which variables were best correlated to gasoline consumption. From this, I decided that licensed drivers and average fuel economy were going to be our predictors of gasoline consumption. We then tested different models and methods including Principal Component Analysis(PCA), Walk-Forward Validation, XGBoost, and GridSearch to try to predict gasoline consumption in the future. One problem that we ran into was that our original time span was 1995-2021, but the data from November 2019 - May 2021 does not follow historical trends due to COVID-19. Because of this, we decided to change our time span to end in 2019.
