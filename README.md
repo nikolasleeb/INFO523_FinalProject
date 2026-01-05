@@ -6,7 +6,12 @@
 
 ### Project Description
 
-blah blah blah
+ The goal of this project was to explore two data driven questions using the techniques we learned across the semester. The two questions I wanted to ask were:
+    1. As the number of fuel efficient cars on the road increases and vehicle registrations decrease, will that affect future fuel consumption across the U.S.?
+       * This question is based upon the INFO 511 project that I completed earlier in the semester and the ideas for improvements that I had.
+    2. Do Gasoline and Diesel prices within the U.S. move in similar ways and based upon the movement of one, can we predict the other?
+
+Paragraph 2
 
 ---
 
@@ -15,7 +20,10 @@ blah blah blah
 [Project Requirements Document in Google Drive](https://drive.google.com/file/d/1H5ssxc3-JyBZK2CLcOc8Wy99x778WMtz/view?usp=sharin)
 
 Step 1. Project Proposal
-Step 2. Project Development and Completion
+Step 2. Project Analysis and Development
+Step 3. Write FinalReport
+
+---
 
 ### Project Breakdown
 
@@ -51,12 +59,8 @@ Step 2. Project Development and Completion
 |   |---INFO523_FinalProjectGuidelines.pdf
 |   |---ProjectProposal.docx
 |---FinalReport.docx
-|
-|
-|
-|
-|
-|
-|
-|
-|
+```
+
+---
+
+### Ideas for Improvement
