@@ -9,7 +9,7 @@
  The goal of this project was to explore two data driven questions using the techniques we learned across the semester. The two questions I wanted to ask were:
 
 1. Using historical vehicle registrations, fuel efficiency, and gasoline consumption, can we accurately predict future gasoline consumption?
-    * This question is based upon the INFO 511 project that I completed earlier in the semester and the ideas for improvements that I had.
+    * This question is based upon the [INFO 511](https://github.com/nikolasleeb/INFO511_FinalProject) project that I completed earlier in the semester and the ideas for improvements that I had.
 
 2. Do Gasoline and Diesel prices within the U.S. move in similar ways and based upon the movement of one, can we predict the other?
 
