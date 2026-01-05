@@ -23,7 +23,7 @@ Step 2. Project Development and Completion
 |---FEVRC_Analysis
 |   |---Images Folder
 |   |---FEVRC_Dataset.csv
-|   |---FEVRC_Notebook(17-19).ipynb
+|   |---FEVRC_Notebook.ipynb
 |---FP_Analysis
 |   |---Images Folder
 |   |---FP_Notebook.ipynb
@@ -48,7 +48,7 @@ Step 2. Project Development and Completion
 |   |---VehicleRegistration.ipynb
 |   |---VehicleRegistrations.xlsx
 |---ProjectDocuments
-|   |---INFO523_Fall2025_final_project_guidelines.pdf
+|   |---INFO523_FinalProjectGuidelines.pdf
 |   |---ProjectProposal.docx
 |---FinalReport.docx
 |
